@@ -1,6 +1,5 @@
-<img align="right" width="12%" src="./img.jpeg"/><br><br><br>
+# Achraf Rachini  <img align="right" width="12%" src="./img.jpeg"/><br><br><br>
 
-**Achraf Rachini** 
 
 **Born on 8/1/1989 Beirut, Lebanon** 
 
